@@ -1,0 +1,35 @@
+body{
+    background-color: #4D455D;
+
+    .back_g{
+        min-width: 100vw;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 1rem;
+       
+
+        .head{
+            color: #F5E9CF;
+        }
+
+        .div_image{
+            min-width: 50vw;
+            min-height: 50vh;
+       
+           
+           
+            margin: 1rem;
+            padding: 1rem;
+            
+            .img{
+               height: 15rem;
+               width: 15rem;
+               margin: 0.5rem;
+            }
+        }
+       
+    }
+}
